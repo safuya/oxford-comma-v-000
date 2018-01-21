@@ -9,4 +9,5 @@ def oxford_comma(array)
     end
 
     sentence += item
+  end
 end
